@@ -1,0 +1,6 @@
+.button{
+    -fx-background-color: #a6493e; /* Set the background color for buttons */
+    -fx-text-fill: #fff2cc; /* Set the text color for buttons */
+    -fx-font-size: 20px;
+    -fx-font-family: "Pristina";
+}

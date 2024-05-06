@@ -1,0 +1,36 @@
+.styled-pane{
+    -fx-background-color: #fff2cc;
+}
+.combo-box{
+    -fx-background-color: #a6493e; /* Set the background color for buttons */
+    -fx-text-fill: #fff2cc; /* Set the text color for buttons */
+    -fx-font-size: 16px;
+    -fx-font-family: "Roboto Light";
+}
+.styled-line{
+    -fx-stroke: red;        /* Set the stroke color */
+    -fx-stroke-width: 3;     /* Set the stroke width */
+    -fx-stroke-dash-array: 5 5; /* Set a dashed pattern */
+}
+.Triangle{
+    -fx-background-color: red;
+}
+
+.button{
+    -fx-background-color: #a6493e; /* Set the background color for buttons */
+    -fx-text-fill: #fff2cc; /* Set the text color for buttons */
+    -fx-font-size: 20px;
+    -fx-font-family: "Pristina";
+    -fx-background-size: 200px 100px;
+}
+
+.label{
+    -fx-text-fill: #a6493e; /* Set the text color for buttons */
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+    -fx-font-family: "Roboto Light";
+}
+.city-label{
+    -fx-text-fill: black; /* Set the text color for buttons */
+    -fx-font-size: 6px;
+}
